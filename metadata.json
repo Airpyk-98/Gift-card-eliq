@@ -1,0 +1,7 @@
+{
+  "name": "Eliq - Liquid Wealth",
+  "description": "A high-end fintech application for gift card trading and instant liquidity with a premium glassmorphic dark UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
